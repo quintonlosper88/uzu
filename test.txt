@@ -1,0 +1,9 @@
+ let statusSelection = document.getElementById('status');
+            switch(statusSelection){
+                case "Enter":
+                    status="Enter"
+                    break;
+                case "Leave":
+                    status="Leave"
+                    break;
+            }
